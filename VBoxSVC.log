@@ -1,0 +1,70 @@
+00:00:00.002267 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.002269 main     Log opened 2022-10-22T06:23:56.204816300Z
+00:00:00.002269 main     Build Type: release
+00:00:00.002275 main     OS Product: Windows 10
+00:00:00.002276 main     OS Release: 10.0.19044
+00:00:00.002276 main     OS Service Pack: 
+00:00:00.056647 main     DMI Product Name: HP ProDesk 400 G2 MT
+00:00:00.067336 main     DMI Product Version: 
+00:00:00.067350 main     Firmware type: BIOS
+00:00:00.067358 main     Host RAM: 4024MB (3.9GB) total, 1644MB available
+00:00:00.067362 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.067362 main     Process ID: 7112
+00:00:00.067363 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.126883          VirtualBox: object creation starts
+00:00:00.127093          Home directory: 'C:\Users\Student\.VirtualBox'
+00:00:00.127179          Installed Drivers:
+00:00:00.130700            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.131090            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.131343            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.131689            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.143227          Loading settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.145097          usbLibGetDevices: Starting USB device enumeration
+00:00:00.275560          usbLibGetDevices: Found 0 USB devices, 0 captured
+00:00:00.433448          HostDnsMonitor: initializing
+00:00:00.440334          HostDnsMonitor: updating information
+00:00:00.440362          HostDnsMonitor: old information
+00:00:00.440363            no server entries
+00:00:00.440364            no domain set
+00:00:00.440364            no search string entries
+00:00:00.440365          HostDnsMonitor: new information
+00:00:00.440365            server 1: 49.205.171.194
+00:00:00.440366            server 2: 49.207.34.210
+00:00:00.440367            server 3: 8.8.8.8
+00:00:00.440367            no domain set
+00:00:00.440367            no search string entries
+00:00:00.507342          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:00.507865          VD: VDInit finished with VINF_SUCCESS
+00:00:00.509233          Loading settings file "C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\Custom Phone.vbox" with version "1.14-windows"
+00:00:00.510778          VirtualBox: object created
+00:02:05.778350          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:02:05.778518          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:02:05.832448          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:02:05.832678          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:13:56.217397 dns-monitor HostDnsMonitor: updating information
+00:13:56.217473 dns-monitor HostDnsMonitor: old information
+00:13:56.217484 dns-monitor   server 1: 49.205.171.194
+00:13:56.217493 dns-monitor   server 2: 49.207.34.210
+00:13:56.217501 dns-monitor   server 3: 8.8.8.8
+00:13:56.217508 dns-monitor   no domain set
+00:13:56.217515 dns-monitor   no search string entries
+00:13:56.217623 dns-monitor HostDnsMonitor: new information
+00:13:56.217639 dns-monitor   server 1: 8.8.8.8
+00:13:56.217647 dns-monitor   server 2: 8.8.4.4
+00:13:56.217654 dns-monitor   server 3: 49.205.171.194
+00:13:56.217662 dns-monitor   server 4: 49.207.34.210
+00:13:56.217669 dns-monitor   no domain set
+00:13:56.217676 dns-monitor   no search string entries
+02:34:42.229102          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:34:42.261720          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:34:47.866768 main     VirtualBox: object deletion starts
+02:34:47.892077 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\Snapshots/{4ec7502c-5af7-48a3-b9c0-d81eed43eaf6}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:34:47.892259 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\android_system_disk.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:34:47.892322 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\Snapshots/{d8e2fccc-14ce-465b-9ca1-12cba314a867}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:34:47.892375 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\android_data_disk.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:34:47.892424 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\Snapshots/{01248596-5606-4f30-b5c2-4d57f863a798}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:34:47.892483 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\AppData\Local\Genymobile\Genymotion\deployed\Custom Phone\sdcard.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:34:47.907730 main     HostDnsMonitor: shutting down ...
+02:34:47.908162 main     HostDnsMonitor: shut down
+02:34:47.915254 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:34:47.920297 main     VirtualBox: object deleted

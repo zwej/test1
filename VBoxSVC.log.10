@@ -1,0 +1,61 @@
+00:00:00.002960 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.002963 main     Log opened 2022-10-22T04:46:34.681723500Z
+00:00:00.002964 main     Build Type: release
+00:00:00.002972 main     OS Product: Windows 10
+00:00:00.002974 main     OS Release: 10.0.19044
+00:00:00.002975 main     OS Service Pack: 
+00:00:00.055254 main     DMI Product Name: HP ProDesk 400 G2 MT
+00:00:00.072247 main     DMI Product Version: 
+00:00:00.072297 main     Firmware type: BIOS
+00:00:00.072322 main     Host RAM: 4024MB (3.9GB) total, 1404MB available
+00:00:00.072335 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.072335 main     Process ID: 10484
+00:00:00.072336 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.161091          VirtualBox: object creation starts
+00:00:00.161327          Home directory: 'C:\Users\Student\.VirtualBox'
+00:00:00.161420          Installed Drivers:
+00:00:00.164768            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.165172            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.165440            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.165778            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.167121          Loading settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.169062          usbLibGetDevices: Starting USB device enumeration
+00:00:00.296583          usbLibGetDevices: Found 0 USB devices, 0 captured
+00:00:00.391259          HostDnsMonitor: initializing
+00:00:00.398569          HostDnsMonitor: updating information
+00:00:00.398606          HostDnsMonitor: old information
+00:00:00.398607            no server entries
+00:00:00.398608            no domain set
+00:00:00.398609            no search string entries
+00:00:00.398609          HostDnsMonitor: new information
+00:00:00.398610            server 1: 8.8.8.8
+00:00:00.398610            server 2: 8.8.4.4
+00:00:00.398611            server 3: 49.205.171.194
+00:00:00.398611            server 4: 49.207.34.210
+00:00:00.398612            no domain set
+00:00:00.398612            no search string entries
+00:00:00.492511          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:00.493070          VD: VDInit finished with VINF_SUCCESS
+00:00:00.494149          VirtualBox: object created
+00:00:08.621916 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:08.653573 SVCHelper Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.674527 SVCHelper Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.687921 SVCHelper Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.700517 SVCHelper Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.713232 SVCHelper Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.746132 USBPROXY usbLibGetDevices: Found 0 USB devices, 0 captured
+00:00:10.012423 dns-monitor HostDnsMonitor: updating information
+00:00:10.012464 dns-monitor HostDnsMonitor: unchanged
+00:00:11.847178          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.866825          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.904403          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.918004          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.954948          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.968505          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.751755 dns-monitor HostDnsMonitor: updating information
+00:00:13.751837 dns-monitor HostDnsMonitor: unchanged
+00:00:21.196451 main     VirtualBox: object deletion starts
+00:00:21.197388 main     HostDnsMonitor: shutting down ...
+00:00:21.197633 main     HostDnsMonitor: shut down
+00:00:21.201915 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:21.202143 main     VirtualBox: object deleted

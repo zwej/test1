@@ -1,0 +1,16 @@
+00:00:00.710559 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.710562 Log opened 2022-10-22T06:23:56.745811500Z
+00:00:00.710562 Build Type: release
+00:00:00.710567 OS Product: Windows 10
+00:00:00.710568 OS Release: 10.0.19044
+00:00:00.710568 OS Service Pack: 
+00:00:00.721375 DMI Product Name: HP ProDesk 400 G2 MT
+00:00:00.724904 DMI Product Version: 
+00:00:00.724922 Firmware type: BIOS
+00:00:00.724929 Host RAM: 4024MB (3.9GB) total, 1632MB available
+00:00:00.724933 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.724933 Process ID: 5764
+00:00:00.724934 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.725069 Qt version: 5.6.2
+00:00:00.744027 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.233435 GUI: UIMediumEnumerator: Medium-enumeration finished!
